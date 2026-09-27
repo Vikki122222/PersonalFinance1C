@@ -1,0 +1,23 @@
+# 1C temporary / local files
+*.log
+*.tmp
+*.bak
+*.lck
+*.lgp
+*.lgx
+*.cfl
+*.1CD
+*.1CL
+
+# Binary exports / backups (keep source dump in Git)
+*.dt
+*.cf
+*.cfu
+*.epf
+*.erf
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
